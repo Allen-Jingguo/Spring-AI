@@ -1,3 +1,6 @@
-com/example/springaidemo/controller/AIController.class
-com/example/springaidemo/SpringAiDemoApplication.class
-com/example/springaidemo/service/AIService.class
+com/example/springaidemo/controller/QaController.class
+com/example/springaidemo/service/KnowledgeBaseQaService.class
+com/example/springaidemo/QaApplication.class
+com/example/springaidemo/service/QaService.class
+com/example/springaidemo/entity/QuestionRequest.class
+com/example/springaidemo/service/ConversationService.class

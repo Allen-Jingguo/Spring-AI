@@ -1,0 +1,14 @@
+server:
+  port: 5555
+
+spring:
+  ai:
+    openai:
+      api-key: sk-eaf98666d0ee459fa86e212f9c465f9f # 需要替换为上图所示的硅基流动API密钥
+      base-url: https://api.deepseek.com/v1
+      embedding:
+        options:
+          model: deepseek-ai/developer-embedding-model
+      chat:
+        options:
+          model: deepseek-ai/developer-chat-model

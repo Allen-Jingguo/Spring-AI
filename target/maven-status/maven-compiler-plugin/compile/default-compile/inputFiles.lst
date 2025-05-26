@@ -1,3 +1,6 @@
-/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/controller/AIController.java
-/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/service/AIService.java
-/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/SpringAiDemoApplication.java
+/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/QaApplication.java
+/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/service/ConversationService.java
+/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/service/KnowledgeBaseQaService.java
+/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/entity/QuestionRequest.java
+/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/service/QaService.java
+/Users/allenan/git/Spring-AI/src/main/java/com/example/springaidemo/controller/QaController.java
